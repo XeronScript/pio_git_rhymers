@@ -1,5 +1,12 @@
 package edu.kis.vh.nursery;
 
+// 5, 14, 16, 17 linijka była źle sformatowana
+
+/*
+ * kombinacja klawiszy alt + → oraz alt + ← w środowkisu eclipse służy
+ * do przełącznia się między ostatnimi edytowanymi plikami źródłowymi
+ */
+
 public class HanoiRhymer extends defaultCountingOutRhymer {
 
 int totalRejected = 0;
